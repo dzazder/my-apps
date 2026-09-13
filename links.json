@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Budget Manager",
+    "url": "https://budget-manager-psi-ruby.vercel.app",
+    "emoji": "💰"
+  },
+  {
+    "name": "Read Books",
+    "url": "https://read-books-iota.vercel.app",
+    "emoji": "📚"
+  },
+  {
+    "name": "B2B Earn",
+    "url": "https://b2b-earn.vercel.app",
+    "emoji": "💼"
+  }
+]
