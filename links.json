@@ -13,5 +13,10 @@
     "name": "B2B Earn",
     "url": "https://b2b-earn.vercel.app",
     "emoji": "💼"
+  },
+  {
+    "name": "Home Costs",
+    "url": "https://home-costs-swart.vercel.app/",
+    "emoji": "🏠"
   }
 ]
