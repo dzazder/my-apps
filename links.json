@@ -18,5 +18,10 @@
     "name": "Home Costs",
     "url": "https://home-costs-swart.vercel.app/",
     "emoji": "🏠"
+  },
+  {
+    "name": "Bike Builder",
+    "url": "https://bike-builder-wheat.vercel.app/login",
+    "emoji": "🚲"
   }
 ]
