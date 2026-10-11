@@ -23,5 +23,10 @@
     "name": "Bike Builder",
     "url": "https://bike-builder-wheat.vercel.app/login",
     "emoji": "🚲"
+  },
+  {
+    "name": "Fantasy Cycling Auction",
+    "url": "https://fantasy-cycling-production.up.railway.app",
+    "emoji": "🚴‍♂️"
   }
 ]
